@@ -1,5 +1,5 @@
 
-### README para Projeto de Consulta de Habitats e Animais em Extinção em Java
+### Projeto de Consulta de Habitats e Animais em Extinção em Java
 
 ```markdown
 # Projeto de Consulta de Habitats e Animais em Extinção
